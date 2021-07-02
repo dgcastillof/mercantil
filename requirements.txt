@@ -1,0 +1,6 @@
+selenium
+behave
+Pillow
+lorem
+pyodbc
+requests
